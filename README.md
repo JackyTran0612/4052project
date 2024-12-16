@@ -7,4 +7,4 @@ Vision: processes images and tries to classify them. Images will be processeds a
 
 NLP: processes audio and tries to classify it. I will attempt to use audio spectrograms.
 
-Datasets: FER-2013 for labeled facial expressions, CMU-MOSEI for labeled visual and audio recordings.
+Datasets: FER-2013 for labeled facial expressions, RAVDESS for audio recordings.
